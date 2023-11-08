@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ddubnyak
-- 👀 I’m interested in lerning to code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project for junior python developer
+- 👀 I’m newbie swithcer to gamedev
+- 🌱 I’m currently learning C# & Unity
+- 💞️ I’m looking to collaborate on any project for junior Unity developer
 - 📫 How to reach me ddubnyak@gmail.com
 
 <!---
